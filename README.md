@@ -22,12 +22,6 @@
 
 ---
 
-## 🔥 Atividade recente
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrosa-hr-hub&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
 ## 📈 Gráfico de Contribuições
 
 [![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosa-hr-hub&theme=github-compact)](https://github.com/pedrosa-hr-hub)
