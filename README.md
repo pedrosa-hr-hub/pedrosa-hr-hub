@@ -2,8 +2,6 @@
 
 <p align="center">Sou apaixonado por desenvolvimento de software, automação de processos e arquitetura de microsserviços.</p>
 
----
-
 ## 🚀 Sobre mim
 
 - 🎓 Engenheiro de Software
