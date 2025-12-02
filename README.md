@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Engenheiro de Software
-- 💼 Analista de Operações Administrativas Júnior
+- 💼 Analista de Apontamento Pleno
 - 🔭 Atualmente trabalhando em projetos com **Spring Boot**, **Python**, e **Banco de Dados**
 - 💡 Curioso por **IA aplicada a negócios**, **automação** e **sistemas escaláveis**
 - 📍 Brasil
